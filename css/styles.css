@@ -18,6 +18,9 @@ body{
 a{
     text-decoration: none;
 }
+ul{
+    list-style: none;
+}
 
 .header{
     background: var(--white--color);
@@ -92,14 +95,14 @@ a{
     color: var(--white--color);
     background: var(--link--color);
     border-radius: 4px;
+    border: none;
 }
 
 .advantage__item__head{
     font-size: 14px;
-    line-height: 1.14;
-    line-height: 16px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    line-height: 1.14;
 }
 
 .advantage__item__info{
