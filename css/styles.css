@@ -113,6 +113,9 @@ ul{
     color: var(--text--color);
 }
 
+.team{
+    background: var(--bg--color);
+}
 .second-head{
     font-size: 36px;
     line-height: 1.16;
